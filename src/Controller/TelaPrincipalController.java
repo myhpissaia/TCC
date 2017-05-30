@@ -44,7 +44,7 @@ public class TelaPrincipalController implements Initializable {
 
         }
     }
-
+   
     public void sair() {
         TelaPrincipal.getStage().close();
     }
